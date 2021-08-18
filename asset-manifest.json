@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/tnp_demo/static/css/main.c126f67c.chunk.css",
-    "main.js": "/tnp_demo/static/js/main.1df09a32.chunk.js",
-    "main.js.map": "/tnp_demo/static/js/main.1df09a32.chunk.js.map",
-    "runtime-main.js": "/tnp_demo/static/js/runtime-main.509277f4.js",
-    "runtime-main.js.map": "/tnp_demo/static/js/runtime-main.509277f4.js.map",
-    "static/css/2.4be38407.chunk.css": "/tnp_demo/static/css/2.4be38407.chunk.css",
-    "static/js/2.c46828f6.chunk.js": "/tnp_demo/static/js/2.c46828f6.chunk.js",
-    "static/js/2.c46828f6.chunk.js.map": "/tnp_demo/static/js/2.c46828f6.chunk.js.map",
-    "static/js/3.62057255.chunk.js": "/tnp_demo/static/js/3.62057255.chunk.js",
-    "static/js/3.62057255.chunk.js.map": "/tnp_demo/static/js/3.62057255.chunk.js.map",
+    "main.js": "/tnp_demo/static/js/main.c6bd1066.chunk.js",
+    "main.js.map": "/tnp_demo/static/js/main.c6bd1066.chunk.js.map",
+    "runtime-main.js": "/tnp_demo/static/js/runtime-main.b25358cf.js",
+    "runtime-main.js.map": "/tnp_demo/static/js/runtime-main.b25358cf.js.map",
+    "static/css/2.9c383d06.chunk.css": "/tnp_demo/static/css/2.9c383d06.chunk.css",
+    "static/js/2.d626f83a.chunk.js": "/tnp_demo/static/js/2.d626f83a.chunk.js",
+    "static/js/2.d626f83a.chunk.js.map": "/tnp_demo/static/js/2.d626f83a.chunk.js.map",
+    "static/js/3.10571a2f.chunk.js": "/tnp_demo/static/js/3.10571a2f.chunk.js",
+    "static/js/3.10571a2f.chunk.js.map": "/tnp_demo/static/js/3.10571a2f.chunk.js.map",
     "index.html": "/tnp_demo/index.html",
-    "static/css/2.4be38407.chunk.css.map": "/tnp_demo/static/css/2.4be38407.chunk.css.map",
+    "static/css/2.9c383d06.chunk.css.map": "/tnp_demo/static/css/2.9c383d06.chunk.css.map",
     "static/css/main.c126f67c.chunk.css.map": "/tnp_demo/static/css/main.c126f67c.chunk.css.map",
-    "static/js/2.c46828f6.chunk.js.LICENSE.txt": "/tnp_demo/static/js/2.c46828f6.chunk.js.LICENSE.txt",
+    "static/js/2.d626f83a.chunk.js.LICENSE.txt": "/tnp_demo/static/js/2.d626f83a.chunk.js.LICENSE.txt",
     "static/media/1.c0265b66.jpg": "/tnp_demo/static/media/1.c0265b66.jpg",
     "static/media/2.a5fe7124.jpg": "/tnp_demo/static/media/2.a5fe7124.jpg",
     "static/media/3.49c7b4c5.jpg": "/tnp_demo/static/media/3.49c7b4c5.jpg",
     "static/media/Activities.72d29562.jpg": "/tnp_demo/static/media/Activities.72d29562.jpg",
     "static/media/Alumni.86214080.jpg": "/tnp_demo/static/media/Alumni.86214080.jpg",
+    "static/media/Brochure201920.4a55b19b.pdf": "/tnp_demo/static/media/Brochure201920.4a55b19b.pdf",
     "static/media/IndianArmy.371474a2.png": "/tnp_demo/static/media/IndianArmy.371474a2.png",
     "static/media/IndianOil.8579a32d.png": "/tnp_demo/static/media/IndianOil.8579a32d.png",
     "static/media/IndianRailway.b7d3de1a.png": "/tnp_demo/static/media/IndianRailway.b7d3de1a.png",
@@ -74,10 +75,10 @@
     "static/media/zaloni.79433861.png": "/tnp_demo/static/media/zaloni.79433861.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.509277f4.js",
-    "static/css/2.4be38407.chunk.css",
-    "static/js/2.c46828f6.chunk.js",
+    "static/js/runtime-main.b25358cf.js",
+    "static/css/2.9c383d06.chunk.css",
+    "static/js/2.d626f83a.chunk.js",
     "static/css/main.c126f67c.chunk.css",
-    "static/js/main.1df09a32.chunk.js"
+    "static/js/main.c6bd1066.chunk.js"
   ]
 }
