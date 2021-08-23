@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/tnp_demo/static/css/main.c126f67c.chunk.css",
-    "main.js": "/tnp_demo/static/js/main.72c267f9.chunk.js",
-    "main.js.map": "/tnp_demo/static/js/main.72c267f9.chunk.js.map",
-    "runtime-main.js": "/tnp_demo/static/js/runtime-main.a1e140f2.js",
-    "runtime-main.js.map": "/tnp_demo/static/js/runtime-main.a1e140f2.js.map",
+    "main.js": "/tnp_demo/static/js/main.70c17240.chunk.js",
+    "main.js.map": "/tnp_demo/static/js/main.70c17240.chunk.js.map",
+    "runtime-main.js": "/tnp_demo/static/js/runtime-main.c30d6528.js",
+    "runtime-main.js.map": "/tnp_demo/static/js/runtime-main.c30d6528.js.map",
     "static/css/2.4be38407.chunk.css": "/tnp_demo/static/css/2.4be38407.chunk.css",
-    "static/js/2.0bbb1084.chunk.js": "/tnp_demo/static/js/2.0bbb1084.chunk.js",
-    "static/js/2.0bbb1084.chunk.js.map": "/tnp_demo/static/js/2.0bbb1084.chunk.js.map",
-    "static/js/3.ec027b96.chunk.js": "/tnp_demo/static/js/3.ec027b96.chunk.js",
-    "static/js/3.ec027b96.chunk.js.map": "/tnp_demo/static/js/3.ec027b96.chunk.js.map",
+    "static/js/2.42f55c36.chunk.js": "/tnp_demo/static/js/2.42f55c36.chunk.js",
+    "static/js/2.42f55c36.chunk.js.map": "/tnp_demo/static/js/2.42f55c36.chunk.js.map",
+    "static/js/3.0f7cfefa.chunk.js": "/tnp_demo/static/js/3.0f7cfefa.chunk.js",
+    "static/js/3.0f7cfefa.chunk.js.map": "/tnp_demo/static/js/3.0f7cfefa.chunk.js.map",
     "index.html": "/tnp_demo/index.html",
     "static/css/2.4be38407.chunk.css.map": "/tnp_demo/static/css/2.4be38407.chunk.css.map",
     "static/css/main.c126f67c.chunk.css.map": "/tnp_demo/static/css/main.c126f67c.chunk.css.map",
-    "static/js/2.0bbb1084.chunk.js.LICENSE.txt": "/tnp_demo/static/js/2.0bbb1084.chunk.js.LICENSE.txt",
+    "static/js/2.42f55c36.chunk.js.LICENSE.txt": "/tnp_demo/static/js/2.42f55c36.chunk.js.LICENSE.txt",
     "static/media/1.6a2a44b6.jpg": "/tnp_demo/static/media/1.6a2a44b6.jpg",
     "static/media/2.dd27b603.jpg": "/tnp_demo/static/media/2.dd27b603.jpg",
     "static/media/3.3d18b141.jpg": "/tnp_demo/static/media/3.3d18b141.jpg",
     "static/media/4.ac70ace8.jpg": "/tnp_demo/static/media/4.ac70ace8.jpg",
-    "static/media/Activities.72d29562.jpg": "/tnp_demo/static/media/Activities.72d29562.jpg",
     "static/media/Alumni.86214080.jpg": "/tnp_demo/static/media/Alumni.86214080.jpg",
     "static/media/IndianArmy.371474a2.png": "/tnp_demo/static/media/IndianArmy.371474a2.png",
     "static/media/IndianOil.8579a32d.png": "/tnp_demo/static/media/IndianOil.8579a32d.png",
@@ -95,10 +94,10 @@
     "static/media/zaloni.79433861.png": "/tnp_demo/static/media/zaloni.79433861.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1e140f2.js",
+    "static/js/runtime-main.c30d6528.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.0bbb1084.chunk.js",
+    "static/js/2.42f55c36.chunk.js",
     "static/css/main.c126f67c.chunk.css",
-    "static/js/main.72c267f9.chunk.js"
+    "static/js/main.70c17240.chunk.js"
   ]
 }
