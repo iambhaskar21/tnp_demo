@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tnp_demo/static/css/main.c126f67c.chunk.css",
-    "main.js": "/tnp_demo/static/js/main.80a2f8dc.chunk.js",
-    "main.js.map": "/tnp_demo/static/js/main.80a2f8dc.chunk.js.map",
+    "main.js": "/tnp_demo/static/js/main.356e716f.chunk.js",
+    "main.js.map": "/tnp_demo/static/js/main.356e716f.chunk.js.map",
     "runtime-main.js": "/tnp_demo/static/js/runtime-main.b25578f0.js",
     "runtime-main.js.map": "/tnp_demo/static/js/runtime-main.b25578f0.js.map",
     "static/css/2.4be38407.chunk.css": "/tnp_demo/static/css/2.4be38407.chunk.css",
@@ -23,6 +23,7 @@
     "static/media/IndianOil.8579a32d.png": "/tnp_demo/static/media/IndianOil.8579a32d.png",
     "static/media/IndianRailway.b7d3de1a.png": "/tnp_demo/static/media/IndianRailway.b7d3de1a.png",
     "static/media/Recruitment.577299d5.jpg": "/tnp_demo/static/media/Recruitment.577299d5.jpg",
+    "static/media/abhijitdas233@gmail.com.5cf67564.jpg": "/tnp_demo/static/media/abhijitdas233@gmail.com.5cf67564.jpg",
     "static/media/accenture.cfd6ee07.png": "/tnp_demo/static/media/accenture.cfd6ee07.png",
     "static/media/agilent.df4014c8.png": "/tnp_demo/static/media/agilent.df4014c8.png",
     "static/media/ait.469b6e6b.png": "/tnp_demo/static/media/ait.469b6e6b.png",
@@ -83,6 +84,8 @@
     "static/media/ongc.b1dd6738.png": "/tnp_demo/static/media/ongc.b1dd6738.png",
     "static/media/parleagro.daeef65f.png": "/tnp_demo/static/media/parleagro.daeef65f.png",
     "static/media/pratik.pandey2810@gmail.com.056de9ef.jpg": "/tnp_demo/static/media/pratik.pandey2810@gmail.com.056de9ef.jpg",
+    "static/media/pritam.sarkar@elastic.run.d41f9516.jpg": "/tnp_demo/static/media/pritam.sarkar@elastic.run.d41f9516.jpg",
+    "static/media/saishofcit@gmail.com.a933a8df.jpg": "/tnp_demo/static/media/saishofcit@gmail.com.a933a8df.jpg",
     "static/media/sajal.01aad4e6.png": "/tnp_demo/static/media/sajal.01aad4e6.png",
     "static/media/simplistic.02abb459.png": "/tnp_demo/static/media/simplistic.02abb459.png",
     "static/media/subham.6f701746.jpg": "/tnp_demo/static/media/subham.6f701746.jpg",
@@ -91,7 +94,7 @@
     "static/media/tnpoffice.6a2a44b6.jpg": "/tnp_demo/static/media/tnpoffice.6a2a44b6.jpg",
     "static/media/user-sm.550f585f.png": "/tnp_demo/static/media/user-sm.550f585f.png",
     "static/media/visteon.96b35b23.png": "/tnp_demo/static/media/visteon.96b35b23.png",
-    "static/media/web1.9d77b142.jpeg": "/tnp_demo/static/media/web1.9d77b142.jpeg",
+    "static/media/web1.abd78ee5.jpg": "/tnp_demo/static/media/web1.abd78ee5.jpg",
     "static/media/web2.67285a68.jpg": "/tnp_demo/static/media/web2.67285a68.jpg",
     "static/media/wipro.ac386c6b.png": "/tnp_demo/static/media/wipro.ac386c6b.png",
     "static/media/zaloni.79433861.png": "/tnp_demo/static/media/zaloni.79433861.png"
@@ -101,6 +104,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.57d61dd5.chunk.js",
     "static/css/main.c126f67c.chunk.css",
-    "static/js/main.80a2f8dc.chunk.js"
+    "static/js/main.356e716f.chunk.js"
   ]
 }
